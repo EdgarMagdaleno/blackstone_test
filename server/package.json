@@ -16,7 +16,6 @@
     "express": "^4.17.1",
     "express-validator": "^6.6.0",
     "mongoose": "^5.9.25",
-    "nodemailer": "^6.4.10",
     "universal-cookie-express": "^4.0.3"
   }
 }
