@@ -1,8 +1,8 @@
 ## Edgar Magdaleno Test
 
 ## Dependencies
-Mongo
-Node
+- Mongo
+- Node
 
 ## Set up the client
 From project root:
